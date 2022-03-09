@@ -9,7 +9,7 @@ Meesho is an Indian online e-commerce website.
 
 ## Demo
 
-[Checkout demo](http://meesho-beryl.vercel.app/)🤩
+[Checkout demo](https://meesho-project.vercel.app)🤩
 
 
 ## Authors
