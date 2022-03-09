@@ -183,7 +183,9 @@ export const Navbar = () => {
                     <AccountCircle style={{ fontSize: 60, color: '#f7f9ff' }} />
                     <div className="userContent">
                       <h2>Hello User</h2>
-                      <p>{`+91 ${phoneNum}`}</p>
+
+                      <p>{`+91-${phoneNum}`}</p>
+
                     </div>
                   </div>
                   <div className="hrDivider1"></div>
