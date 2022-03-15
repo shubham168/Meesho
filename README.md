@@ -5,7 +5,8 @@ Meesho is an Indian online e-commerce website.
  People can search and find products of their
  choice and order them. The variety of products include clothing, accessories, kitchen-ware, jewellery etc.
 
-
+![Meesho_clone_img](https://github.com/shubham168/meesho/blob/main/meesho-project-snip.PNG)
+![Meesho_clone_img](https://github.com/shubham168/meesho/blob/main/meeshoimg.png)
 
 ## Demo
 
